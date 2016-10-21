@@ -10,7 +10,7 @@ public class Polynomial {
 	public TreeMap<Monomial, Integer> variableP;/// <单项式，(无用)>
 
 	public Polynomial() {
-
+		///this is my revise 3
 	}
 
 	public Polynomial(String userInput) throws ExpressionException {

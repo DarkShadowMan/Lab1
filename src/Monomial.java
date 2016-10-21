@@ -11,7 +11,7 @@ public class Monomial implements Comparable<Monomial> {
 	public TreeMap<String, Integer> variableM;/// <变量，变量的幂>
 
 	public Monomial() {
-
+		///this is my revise 2
 	}
 
 	public Monomial(String expressionM) {
